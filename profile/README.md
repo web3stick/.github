@@ -9,9 +9,15 @@
 〇 https://stickynotes.near.social/
 
 
-**APPS**
+**APPS AND IDEAS**
 - [X] WEB APP
 - [ ] DESKTOP TO DO APP
+- [ ] STICKY NOTE DESKTOP APP
+- [ ] STICKY NOTE INFINITE CANVAS
+- [ ] STICKY TIME ZONES
+- [ ] STICKY COLORS
+- [ ] STICKY READER APP
+
 
 ---
 
