@@ -7,6 +7,7 @@
 - UP OR DOWN ARROWS (TO MOVE UP OR DOWN ON DOC)
 - Option + ↑ (move line up)
 - Option + ↓ (move line down)
+- CMD + D or the delete key? to delete lines
 
 ---
 
