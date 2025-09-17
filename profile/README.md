@@ -19,6 +19,14 @@ sticky_json_schemas
 <br/>
 🐱 https://github.com/web3stick/sticky_json_schemas
 
+stickydesign
+<br/>
+🟨 design system and reusable components for sticky
+<br/>
+🐱 https://github.com/web3stick/stickydesign
+<br/>
+🔗 https://stickydesign.near.page/
+
 
 
 ---
