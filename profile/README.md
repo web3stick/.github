@@ -7,7 +7,6 @@ stick-y-notes
 <br/>
 🟨 User-owned data with JSON precision
 <br/>
-<br/>
 🔗 https://stickynotes.near.page/
 <br/>
 〇 https://stickynotes.near.social/
