@@ -6,6 +6,15 @@
 - todo
 - graphyt_rust
 - graphyt
+- graphyt_json_swift
+- graphyt_dioxus_desktop
+
+
+**lines**
+- 🟨 User-owned data with JSON precision
+- 🟨 make JSON user owned
+
+
 
 
 

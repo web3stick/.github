@@ -5,7 +5,7 @@
 
 stick-y-notes
 <br/>
-🟨 User-owned data with JSON precision
+🟨 a simple sticky notes website and web app
 <br/>
 🔗 https://stickynotes.near.page/
 <br/>
