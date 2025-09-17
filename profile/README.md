@@ -7,35 +7,25 @@ stick-y-notes
 <br/>
 🟨 User-owned data with JSON precision
 <br/>
-**LINKS:**
 <br/>
 🔗 https://stickynotes.near.page/
 <br/>
 〇 https://stickynotes.near.social/
+<br/>
+🐱 https://github.com/web3stick/stickynotes
 
----
-
-**APPS AND IDEAS**
-- [X] WEB APP
-- [ ] DESKTOP TO DO APP
-- [ ] STICKY NOTE DESKTOP APP
-- [ ] STICKY NOTE INFINITE CANVAS
-- [ ] STICKY TIME ZONES
-- [ ] STICKY COLORS
-- [ ] STICKY READER APP
-
-
----
-
-**JSON**
-
-stickynotes
-```json
-{ "color": "yellow", "note": "Hello World!", "id": "1" }
-```
+sticky_json_schemas
+<br/>
+🟨 a library of simple json schemas
+<br/>
+🐱 https://github.com/web3stick/sticky_json_schemas
 
 
 
 ---
 
+🔗 https://web3stick.near.page/
+<br/>
+〇 https://web3stick.near.social/
+<br/>
 copyright: 2025 by sleet.near
