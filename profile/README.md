@@ -19,13 +19,19 @@ stickyjson.near
 <br/>
 🐱 https://github.com/web3stick/stickyjson
 
+stickydex.near
+<br/>
+🔗 https://stickydex.near.page/
+<br/>
+🦊 https://gitlab.com/sleet-dev/sleet_web4/stickydex
+
 stickydesign.near
 <br/>
 🟨 design system and reusable components for sticky
 <br/>
-🐱 https://github.com/web3stick/stickydesign
-<br/>
 🔗 https://stickydesign.near.page/
+<br/>
+🐱 https://github.com/web3stick/stickydesign
 
 
 
