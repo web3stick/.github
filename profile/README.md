@@ -5,7 +5,7 @@
 
 stickynotes.near
 <br/>
-🟨 a simple sticky notes website and web app
+🟨 🦁 a simple sticky notes website and web app
 <br/>
 🔗 https://stickynotes.near.page/
 <br/>
@@ -30,13 +30,15 @@ stickyexplorer.near
 
 stickydex.near
 <br/>
+🟨 🦄 web4 dex agg ui by web3stick, designed by sleet, powered by intear
+<br/>
 🔗 https://stickydex.near.page/
 <br/>
 🦊 https://gitlab.com/sleet-dev/sleet_web4/stickydex
 
 stickydesign.near
 <br/>
-🟨 design system and reusable components for sticky
+🟨 🦄 design system and reusable components for sticky
 <br/>
 🔗 https://stickydesign.near.page/
 <br/>
