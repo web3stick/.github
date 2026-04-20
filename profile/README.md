@@ -3,7 +3,7 @@
 
 ---
 
-stick-y-notes
+stickynotes.near
 <br/>
 🟨 a simple sticky notes website and web app
 <br/>
