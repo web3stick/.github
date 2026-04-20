@@ -13,11 +13,11 @@ stickynotes.near
 <br/>
 🐱 https://github.com/web3stick/stickynotes
 
-stickyjson.near
+stickyschema.near
 <br/>
 🟨 simple json schemas
 <br/>
-🐱 https://github.com/web3stick/stickyjson
+🐱 https://github.com/web3stick/stickyschema
 
 
 stickyexplorer.near
