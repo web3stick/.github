@@ -18,6 +18,8 @@ stickyschema.near
 🟨 simple json schemas
 <br/>
 🐱 https://github.com/web3stick/stickyschema
+<br/>
+🐱 https://github.com/web3stick/stickyschemas
 
 
 stickyexplorer.near
